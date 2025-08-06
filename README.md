@@ -6,13 +6,13 @@
 
 </div>
 
-- 🎓 I'm a rising junior at the University of Pennsylvania with hands-on experience in full-stack web and app development
+- I'm a rising junior at the University of Pennsylvania with hands-on experience in full-stack web and app development
 
-- 💡 I'm very passionate about learning new technologies and building impactful projects
+- I'm very passionate about learning new technologies and building impactful projects
 
-- 🧪 Right now I'm working as a Software Engineering Research Assistant at Penn’s Computational Social Science Lab
+- Right now I'm working as a Software Engineering Research Assistant at Penn’s Computational Social Science Lab
 
-- 🧰 I'm currently learning C++ to deepen my understanding of low-level systems and to eventually develop a project with my new skills
+- I'm currently learning C++ to deepen my understanding of low-level systems and to eventually develop a project with my new skills
 
 ---
 ### Connect with me or contact me:
