@@ -15,7 +15,7 @@
 - 🧰 I'm currently learning C++ to deepen my understanding of low-level systems and to eventually develop a project with my new skills
 
 ---
-### Connect with or contact me:
+### Connect with me or contact me:
 <p align="left">
   <a href="https://www.linkedin.com/in/darren-mo-893368292/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
@@ -64,7 +64,11 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darrennmo12309&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrennmo12309&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 
 <!--
