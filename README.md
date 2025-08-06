@@ -1,4 +1,11 @@
+
+
+<div align="center">
+
 ## Hey there 👋. My name is Darren, and I am a student at the University of Pennsylvania studying computer science.
+
+</div>
+
 <!--
 **darrenmo12309/darrenmo12309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
