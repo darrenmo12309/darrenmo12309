@@ -14,7 +14,7 @@
 
 - 🧰 I'm currently learning C++ to deepen my understanding of low-level systems and to eventually develop a project with my new skills
 
-<hr>
+---
 
 <p align="center">
   <a href="https://www.https://www.linkedin.com/in/darren-mo-893368292/" target="_blank">
