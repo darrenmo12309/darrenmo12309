@@ -15,9 +15,10 @@
 - 🧰 I'm currently learning C++ to deepen my understanding of low-level systems and to eventually develop a project with my new skills
 
 ---
-Connect with me here:
+### 🤝 Connect with Me
+
 <p align="left">
-  <a href="https://www.https://www.linkedin.com/in/darren-mo-893368292/" target="_blank">
+  <a href="https://www.linkedin.com/in/darren-mo-893368292/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
 </p>
