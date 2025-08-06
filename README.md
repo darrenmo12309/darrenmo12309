@@ -6,7 +6,13 @@
 
 </div>
 
-- Im 
+- 🎓 I'm a rising junior at the University of Pennsylvania with hands-on experience in full-stack web and app development
+
+- 💡 I'm very passionate about learning new technologies and building impactful projects
+
+- 🧪 Right now I'm working as a Software Engineering Research Assistant at Penn’s Computational Social Science Lab
+
+- 🧰 I'm currently learning C++ to deepen my understanding of low-level systems and expand my development skillset
 
 <!--
 **darrenmo12309/darrenmo12309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
