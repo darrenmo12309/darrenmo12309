@@ -12,7 +12,7 @@
 
 - 🧪 Right now I'm working as a Software Engineering Research Assistant at Penn’s Computational Social Science Lab
 
-- 🧰 I'm currently learning C++ to deepen my understanding of low-level systems and expand my development skillset
+- 🧰 I'm currently learning C++ to deepen my understanding of low-level systems and to eventually develop a project with my new skills
 
 <!--
 **darrenmo12309/darrenmo12309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
