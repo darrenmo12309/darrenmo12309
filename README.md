@@ -68,8 +68,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darrenmo12309&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenmo12309&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darrenmo12309&show_icons=true&theme=tokyonight&hide_border=true" width="48%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenmo12309&layout=compact&theme=tokyonight&hide_border=true" width="48%" height="200" />
 </p>
 
 
